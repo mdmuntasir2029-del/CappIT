@@ -1,1 +1,8 @@
-
+Part,Quantity,Price (BDT),Price (USD),Purpose
+Raspberry Pi 4 Model B (4GB),1,10800.00,88.19,Main processing unit for AI
+64GB MicroSD (with OS),1,985.04,8.04,Operating system and AI model storage
+3.2 inch Touch LCD (C),1,1280.00,10.45,High-contrast text display HAT
+Micro HDMI to HDMI Cable,1,370.00,3.02,External display support for debugging
+Raspberry Pi 4 Power Adapter (5V 3A),1,560.00,4.57,Stable 15W power supply
+USB Microphone,1,850,6.94,Speech input
+TOTAL,13995,120
